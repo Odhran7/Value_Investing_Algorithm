@@ -1,0 +1,1 @@
+This is for gathering fundamental data and fair values for a particular porfolio that you can try to make inferences on! This is a WIP :)
